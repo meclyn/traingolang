@@ -31,6 +31,6 @@ func main (){
 	if number%2 == 0 {
 		fmt.Printf("O número %d é par.\n", number)
 	} else {
-		fmt.Printf("O número %d é ímpar.\n", number)
+		fmt.Printf("O número %d é ímparr.\n", number)
 	}
 }
